@@ -1,0 +1,22 @@
+{
+  "CO2": {
+    "slaveId": 1,
+    "registerType": "holding",
+    "registerAddress": 0
+  },
+  "temperature": {
+    "slaveId": 1,
+    "registerType": "holding",
+    "registerAddress": 1
+  },
+  "humidity": {
+    "slaveId": 1,
+    "registerType": "holding",
+    "registerAddress": 2
+  },
+  "rainfall": {
+    "slaveId": 1,
+    "registerType": "holding",
+    "registerAddress": 3
+  }
+}
