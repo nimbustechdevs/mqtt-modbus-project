@@ -14,9 +14,20 @@
     "registerType": "holding",
     "registerAddress": 2
   },
-  "rainfall": {
+  "sound_level": {
     "slaveId": 1,
     "registerType": "holding",
     "registerAddress": 3
+  },
+  "rainfall": {
+    "slaveId": 1,
+    "registerType": "holding",
+    "registerAddress": 4
+  },
+  "light_intensity": {
+    "slaveId": 1,
+    "registerType": "holding",
+    "registerAddress": 5
   }
 }
+
